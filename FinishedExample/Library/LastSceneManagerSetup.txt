@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/MainScene.unity
+- path: C:/Users/c516792/Documents/UniWork/DES105 - Unity Tutorials/DES105-Unity Scripting/FinishedExample/Assets/Scenes/MainScene.unity
   isLoaded: 1
   isActive: 1
